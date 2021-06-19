@@ -1,0 +1,2 @@
+# Supervised-Learning
+This Repository contains all the techniques in supervised learning  like regression for continous data predictions, Classification using Logistic model, Decision tree model, Random forest model, Navie bayes model,k nearest neighbours model, SVM model for discrete predictions along with techniques like Boosting and bagging techniques that strengths the model and Hyper parameter Tunning that fits the best parameters for model and Voting classifier that helps to Make a single model from the results of all model and encodings
