@@ -1,0 +1,10 @@
+Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable. 
+The nature of target or dependent variable is dichotomous, which means there would be only two possible classes.
+Mathematically, a logistic regression model predicts P(Y=1) as a function of X.
+
+Here the logistic classifer is in implemented in differnt ways
+(i) For digit recognition
+(ii) On Universal Bank Dataset
+(iii) from Stastical models
+(iv) Using Select from model which gives best parameters for model
+(v) Using Pipeline along with data modification like PCA, Scaling
