@@ -1,0 +1,7 @@
+This directory contains implementations the following classification models 
+(i) Decision Tree Classifier
+(ii) K Nearnst Neighbour Classifier
+(iii) Logistic classifer
+(iv) Navie Bayes Classifier
+(v) Random Forest
+(vi) SVM
