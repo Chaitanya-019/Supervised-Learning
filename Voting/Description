@@ -1,0 +1,6 @@
+Voting is an ensemble machine learning algorithm.
+
+For regression, a voting ensemble involves making a prediction that is the average of multiple other regression models.
+
+In classification, a hard voting ensemble involves summing the votes for crisp class labels from other models and predicting the class with the most votes.
+A soft voting ensemble involves summing the predicted probabilities for class labels and predicting the class label with the largest sum probability.
